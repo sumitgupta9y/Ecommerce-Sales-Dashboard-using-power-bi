@@ -22,6 +22,6 @@ This Power BI dashboard provides a comprehensive overview of e-commerce sales pe
 
 ### **Getting Started**
 
-1.  **Download the Power BI file:** [)
+1.  **Download the Power BI file:**<a href "https://github.com/sumitgupta9y/Ecommerce-Sales-Dashboard-using-power-bi/blob/main/Sales%20Dashboard%20Project.pbix"> Dashboard </a>
 2.  **Open with Power BI Desktop:** Ensure you have the latest version installed.
 3.  **Connect to your data:** You may need to update the data source connection settings to point to your own data warehouse or files.
